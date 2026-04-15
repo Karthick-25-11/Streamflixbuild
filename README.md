@@ -48,4 +48,4 @@ Open a browser and access:
 
 ```
 
-Your website should now be live on IIS 🎉
+Your website should now be live on IIS 
